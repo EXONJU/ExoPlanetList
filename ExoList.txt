@@ -44,7 +44,6 @@
 81 Cet b
 91 Aqr b
 AB Pic b
-alf Cen B b
 alf Tau b
 alpha Ari b
 alpha Cen B b
@@ -3492,8 +3491,6 @@ Qatar-2 b
 Qatar-3 b
 Qatar-4 b
 Qatar-5 b
-rho CrB b
-rho CrB c
 Ross 458 (AB) c
 ROXs 12 b
 ROXs 42 B b
@@ -3530,7 +3527,6 @@ USco CTIO 108 b
 USco1602-2401 b
 USco1610-1913 b
 USco1612-1800 b
-UZ For (AB) d
 UZ For b
 UZ For c
 V0391 Peg b
