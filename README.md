@@ -25,3 +25,4 @@ Special thanks to:
 5. [astronexus](https://github.com/astronexus/HYG-Database)
 6. [TEPCat](http://www.astro.keele.ac.uk/jkt/tepcat/rossiter.html)
 
+[ ] `.csv` file on the way
