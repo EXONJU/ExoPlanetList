@@ -1,4 +1,4 @@
-# ExoPlanetList
+# ExoPlanetList -- Total Planet Number = 3701
 List of hand-picked exoplanets
 
 > Created for my Phd Dissertation.
