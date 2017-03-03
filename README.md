@@ -26,3 +26,7 @@ Special thanks to:
 6. [TEPCat](http://www.astro.keele.ac.uk/jkt/tepcat/rossiter.html)
 
 **`.csv` file on the way**
+
+![](exodist.jpg)
+
+![](nearbyplanet.jpg)
