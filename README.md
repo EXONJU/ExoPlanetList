@@ -4,9 +4,10 @@ List of hand-picked exoplanets
 > Created for my Phd Dissertation.
 
 ### [Telegram Bot](https://telegram.me/exoplanets_bot) 
+![Telebot Screenshot](./telegrambot.png)
 
-### Wechat Bot QR Code
-
+### Wechat Bot
+![Wechat Bot QR Code](wechat_bot.jpg)
 
 
 ###一些约定：
