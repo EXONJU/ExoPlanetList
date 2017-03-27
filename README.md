@@ -3,6 +3,12 @@ List of hand-picked exoplanets
 
 > Created for my Phd Dissertation.
 
+### [Telegram Bot](https://telegram.me/exoplanets_bot) 
+
+### Wechat Bot QR Code
+
+
+
 ###一些约定：
 
 - mainly based on `exoplanet.org`
